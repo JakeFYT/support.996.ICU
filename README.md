@@ -208,6 +208,7 @@ Supported by / 支持者:
 * Jacob Ritchie, Research Assistant, University of Toronto
 * JackEggie(Jack Tang), Software Engineer, Infor
 * Jackie Koon, student, South China University of Technology
+* Jake Fu(付裕桐),Student,Shenyang Ligong University,Shenyang,China
 * James Lord - Software Developer
 * James Turnbull, CTO-in-residence, Microsoft
 * Jamie Brandon, CallMiner
